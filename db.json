@@ -1,0 +1,38 @@
+{
+  "contacts": [
+    {
+      "name": "Albert",
+      "phone": "9099874362",
+      "avatar": "https://masai-website-images.s3.ap-south-1.amazonaws.com/Albert_28b73517f6.jpg",
+      "address": "Maharastra",
+      "label": "Friends",
+      "id": 3
+    },
+    {
+      "name": "Ritesh",
+      "phone": "7765398600",
+      "avatar": "https://masai-website-images.s3.ap-south-1.amazonaws.com/Ritesh_Firodiya_4_8a667ac9c8.jpg",
+      "address": "Delhi",
+      "label": "Friends",
+      "id": 4
+    },
+    {
+      "name": "Vivek",
+      "phone": "7765890879",
+      "avatar": "https://masai-website-images.s3.ap-south-1.amazonaws.com/image_47_a922f4522c.png",
+      "address": "jaipur",
+      "label": "Work",
+      "id": 7
+    }
+  ],
+  "bookmarks": [
+    {
+      "name": "Albert",
+      "phone": "9099874362",
+      "avatar": "https://masai-website-images.s3.ap-south-1.amazonaws.com/Albert_28b73517f6.jpg",
+      "address": "Maharastra",
+      "label": "Friends",
+      "id": 3
+    }
+  ]
+}

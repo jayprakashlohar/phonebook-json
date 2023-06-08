@@ -1,0 +1,25 @@
+{
+  "name": "phonebook-json",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jayprakashlohar/phonebook-json.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jayprakashlohar/phonebook-json/issues"
+  },
+  "homepage": "https://github.com/jayprakashlohar/phonebook-json#readme",
+  "dependencies": {
+    "json-server": "^0.16.1",
+    "nodemon": "^2.0.22"
+  }
+}
